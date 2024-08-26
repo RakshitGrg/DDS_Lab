@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Mon Aug 26 19:52:22 2024
+[*]
+[dumpfile] "C:\Users\palak\Desktop\DDS_Lab\CS247-S2-1.vcd"
+[dumpfile_mtime] "Mon Aug 26 19:50:28 2024"
+[dumpfile_size] 1668
+[savefile] "C:\Users\palak\Desktop\DDS_Lab\CS247-S2-1.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-5.518126 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 211
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 154
+@22
+tb.a[3:0]
+@28
+tb.x
+@29
+tb.y
+[pattern_trace] 1
+[pattern_trace] 0
